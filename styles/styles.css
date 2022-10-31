@@ -2,7 +2,7 @@ body{
 
   margin: 0px;
   /* background-image: url(https://t4.ftcdn.net/jpg/03/11/72/63/360_F_311726370_WUopUflJYzZWTiIPdnP2yZ3xGaNABHZY.jpg); */
-  background-image: url(images/pexels-frank-cone-3214110.jpg)
+  background-color:#042D60;
 
 
 
@@ -150,6 +150,7 @@ body{
 
  margin: 10%;
  color: white;
+ font-weight: 800;
  font-family: monospace;
  margin-left: 195%;
  /* background-image: url(https://unsplash.com/photos/uhjiu8FjnsQ/download); */

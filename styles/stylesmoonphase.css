@@ -1,14 +1,15 @@
 body {
   margin: 0px;
   /* background-image: url(https://t4.ftcdn.net/jpg/03/11/72/63/360_F_311726370_WUopUflJYzZWTiIPdnP2yZ3xGaNABHZY.jpg); */
-  background-image: url("images/pexels-ivan-cisneros-14986717.jpg")
+  /* background-image: url("images/pexels-ivan-cisneros-14986717.jpg") */
+  background-color: #042D60;
 
 }
 .card{
-  /* color: white; */
+  color: white;
       font-family: monospace;
       /* background-image: url(https://t4.ftcdn.net/jpg/03/11/72/63/360_F_311726370_WUopUflJYzZWTiIPdnP2yZ3xGaNABHZY.jpg); */
-      background-image: url(images/pexels-frank-cone-3214110.jpg)
+    background-color:#042D60;
 }
 /* colors */
 

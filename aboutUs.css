@@ -128,12 +128,11 @@ li a {
 }
 
 li a:hover {
-  background-color: #8c9494;
+  background-color: white;
 }
 
 .cursive {
-  font-family: 'Lato', sans-serif;
-  font-family: 'Rajdhani', sans-serif;
+  font-family: monospace;
 }
 
 .exp2 {
@@ -145,7 +144,7 @@ li a:hover {
   display: flex;
   position: relative;
   margin: 15%;
-  font-family: cursive;
+  font-family: monospace;
   color: white;
   justify-content: center;
 }
@@ -160,7 +159,7 @@ li a:hover {
 .card {
   margin: 10%;
   color: white;
-  font-family: cursive;
+  font-family: monospace;
   margin-left: 195%;
   /* background-image: url(https://unsplash.com/photos/uhjiu8FjnsQ/download); */
   text-align: center;
@@ -170,7 +169,7 @@ li a:hover {
 }
 
 .hey {
-  margin: 20px;
+  margin: 30px;
 }
 
 /* {
@@ -340,7 +339,7 @@ li a {
 }
 
 li a:hover {
-  background-color: #8c9494;
+  background-color: white;
 }
 
 
