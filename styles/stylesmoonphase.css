@@ -1,33 +1,35 @@
 body {
   margin: 0px;
-  background-image: url(https://t4.ftcdn.net/jpg/03/11/72/63/360_F_311726370_WUopUflJYzZWTiIPdnP2yZ3xGaNABHZY.jpg);
+  /* background-image: url(https://t4.ftcdn.net/jpg/03/11/72/63/360_F_311726370_WUopUflJYzZWTiIPdnP2yZ3xGaNABHZY.jpg); */
+  background-image: url("images/pexels-ivan-cisneros-14986717.jpg")
 
 }
 .card{
-  color: #346780;
-      font-family: cursive;
-      background-image: url(https://t4.ftcdn.net/jpg/03/11/72/63/360_F_311726370_WUopUflJYzZWTiIPdnP2yZ3xGaNABHZY.jpg);
+  /* color: white; */
+      font-family: monospace;
+      /* background-image: url(https://t4.ftcdn.net/jpg/03/11/72/63/360_F_311726370_WUopUflJYzZWTiIPdnP2yZ3xGaNABHZY.jpg); */
+      background-image: url(images/pexels-frank-cone-3214110.jpg)
 }
 /* colors */
 
 .textColor1 {
-  color: #64939a;
+  color: white;
 }
 
 .textColor2 {
-  color: #346780;
+  color: white;
 }
 
 .textColor3 {
-  color: #0b182d;
+  color: white;
 }
 
 .textColor4 {
-  color: #8c9494;
+  color: white;
 }
 
 .textColor5 {
-  color: #44787c;
+  color: white;
 }
 
 
@@ -64,7 +66,7 @@ li a:hover {
 
    
  .cursive{
-  font-family: 'Lato', sans-serif;
-  font-family: 'Rajdhani', sans-serif;
+  font-family:monospace ;
+  
  }
  
